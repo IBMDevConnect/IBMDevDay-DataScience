@@ -19,7 +19,7 @@
 
 ## Pre-Requisites
 
-1. Sign up for IBM Cloud Account before the workshop - [https://ibm.biz/BdZGT2](https://ibm.biz/BdZGT2). If you have an existing IBM Cloud Account from your organisation, you may use that for the workshop.
+1. Sign up for IBM Cloud Account before the workshop - [https://ibm.biz/BdZfzn](https://ibm.biz/BdZGT2). If you have an existing IBM Cloud Account from your organisation, you may use that for the workshop.
 2. Sign up for a free IBM Coder account - [https://ibmcoders.influitive.com/](https://ibmcoders.influitive.com/)
 3. Signup for a free GitHub account, if not already done  - [https://github.com/](https://github.com/)
 4. Install a Git command line or GUI client - [https://git-scm.com/downloads/](https://git-scm.com/downloads/)
