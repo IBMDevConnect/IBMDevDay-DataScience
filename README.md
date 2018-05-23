@@ -7,11 +7,11 @@
 
 10:00 - 11:00	- TECH TALK: Capabilities of Watson Studio to analyze data
 
-11:00 - 12:30	- WORKSHOP: Create and deploy a scoring model to predict heartrate failure
+11:00 - 12:30	- WORKSHOP: [Create and deploy a scoring model to predict heartrate failure](https://github.com/IBMDevConnect/IBMDevDay-DataScience/blob/master/Introduction%20to%20machine%20learning.pdf)
 
 12:30 - 13:00 - LUNCH
 
-13:00 - 14:00 - TECH TALK: Understanding Support Vector Machine Algorithm
+13:00 - 14:00 - [TECH TALK: Understanding Support Vector Machine Algorithm](https://github.com/IBMDevConnect/IBMDevDay-DataScience/blob/master/SVM_basics.pptx)
 
 14:00 - 15:30 - WORKSHOP: Perform Machine Learning exercise using Apache System ML and IBM Watson Studio
 
