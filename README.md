@@ -5,13 +5,13 @@
 
 09:45 - 10:00	- OPENING SESSION: IBM Developer Way
 
-10:00 - 11:00	- TECH TALK: Capabilities of Watson Studio to analyze data
+10:00 - 11:00	- TECH TALK: [Capabilities of Watson Studio to analyze data](https://github.com/IBMDevConnect/IBMDevDay-DataScience/blob/master/IBMWatsonStudioAndCapabilities.pptx)
 
 11:00 - 12:30	- WORKSHOP: [Create and deploy a scoring model to predict heartrate failure](https://github.com/IBMDevConnect/IBMDevDay-DataScience/blob/master/Introduction%20to%20machine%20learning.pdf)
 
 12:30 - 13:00 - LUNCH
 
-13:00 - 14:00 - [TECH TALK: Understanding Support Vector Machine Algorithm](https://github.com/IBMDevConnect/IBMDevDay-DataScience/blob/master/SVM_basics.pptx)
+13:00 - 14:00 - TECH TALK: [Understanding Support Vector Machine Algorithm](https://github.com/IBMDevConnect/IBMDevDay-DataScience/blob/master/SVM_basics.pptx)
 
 14:00 - 15:30 - WORKSHOP: Perform Machine Learning exercise using Apache System ML and IBM Watson Studio
 
@@ -24,6 +24,12 @@
 3. Signup for a free GitHub account, if not already done  - [https://github.com/](https://github.com/)
 4. Install a Git command line or GUI client - [https://git-scm.com/downloads/](https://git-scm.com/downloads/)
 5. An account on [IBM Watson Studio](https://dataplatform.ibm.com/)
+
+## Code Patterns
+
+[Create and deploy a scoring model to predict heartrate failure](https://developer.ibm.com/code/patterns/create-and-deploy-a-scoring-model-to-predict-heartrate-failure/)
+
+[Perform Machine Learning exercise using Apache System ML and IBM Watson Studio](https://developer.ibm.com/code/patterns/perform-a-machine-learning-exercise/)
 
 ## Feedback
 
