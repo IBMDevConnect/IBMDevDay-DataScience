@@ -45,3 +45,4 @@ Please provide your session feedback here:[https://sessionfeedback.mybluemix.net
 * [IBM DevConnect Meetup Group](https://www.meetup.com/IBMDevConnect-Bangalore/)
 * [IBM DevConnect Slack Channel](https://slackrequest.mybluemix.net)
 * [IBM Cloud Solution Tutorials](http://ibm.biz/solution-tutorials)
+* [Call for Code](https://developer.ibm.com/code/2018/05/24/global-importance-answering-call-code/)
