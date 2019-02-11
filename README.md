@@ -1,5 +1,5 @@
 
-# IBM Developer Day-Data Science- Resources
+# IBM Dev Day-Data Science- Resources
 
 ## Agenda
 
